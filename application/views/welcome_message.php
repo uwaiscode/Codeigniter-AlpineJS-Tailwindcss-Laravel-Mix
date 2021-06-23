@@ -10,7 +10,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 	<title>Welcome to CodeIgniter</title>
 	<link rel="icon" type="image/png" sizes="32x32" href="<?= base_url(); ?>assets/images/favicon-32x32.png">
 	<link rel="icon" type="image/png" sizes="16x16" href="<?= base_url(); ?>assets/images/favicon-16x16.png">
-	<link rel="stylesheet" type="text/css" href="<?= base_url(); ?>assets/css/style.css">
+	<link rel="stylesheet" type="text/css" href="<?= base_url(); ?>assets/css/app.css">
 </head>
 
 
@@ -138,7 +138,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 			</div>
 		</div>
 	</div>
-
+	<script src="<?= base_url(); ?>assets/js/app.js"></script>
 </body>
 
 </html>
