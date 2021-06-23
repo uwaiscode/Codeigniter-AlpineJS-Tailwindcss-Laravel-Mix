@@ -26,7 +26,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 				<div class="flex flex-col flex-grow bg-white lg:shadow-2xl lg:rounded-lg lg:overflow-hidden">
 					<div class="flex flex-col justify-center flex-grow p-12">
 						<div class="pl-0 md:pl-16">
-							<h1 class="mt-6 text-2xl text-gray-900 sm:font-light sm:text-3xl md:text-4xl">Codeigniter AlpineJS Tailwindcss Laravel Mix</h1>
+							<h1 class="mt-6 text-2xl text-gray-900 sm:font-light sm:text-3xl md:text-4xl">Codeigniter AlpineJS Tailwindcss Laravel-Mix</h1>
 							<p class="mt-3 leading-relaxed text-gray-600 sm:text-xl">Buat controller dengan perintah <span class="px-1 font-mono text-sm subpixel-antialiased text-gray-700 bg-gray-100 rounded sm:text-base">php index.php pitisan controller nyobain</span></p>
 						</div>
 					</div>
@@ -68,7 +68,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 									<div class="flex flex-col ml-4 leading-relaxed md:ml-6">
 										<h2 class="text-lg font-medium text-gray-800">Codeigniter</h2>
 										<div class="pt-1 mt-auto">
-											<a class="inline-flex items-center text-teal-600 hover:text-teal-800" href="https://tailwindcss.com/components">
+											<a class="inline-flex items-center text-teal-600 hover:text-teal-800" href="https://www.codeigniter.com/">
 												<span class="text-sm font-semibold md:text-base">Baca Dokumentasi</span>
 												<svg class="w-4 h-4 ml-2 fill-current" viewBox="0 0 18 12" xmlns="http://www.w3.org/2000/svg">
 													<path fill-rule="evenodd" clip-rule="evenodd" d="M14.5858 7H1C0.447715 7 0 6.55228 0 6C0 5.44772 0.447715 5 1 5H14.5858L11.2929 1.70711C10.9024 1.31658 10.9024 0.683418 11.2929 0.292893C11.6834 -0.0976311 12.3166 -0.0976311 12.7071 0.292893L17.7071 5.29289C18.0976 5.68342 18.0976 6.31658 17.7071 6.70711L12.7071 11.7071C12.3166 12.0976 11.6834 12.0976 11.2929 11.7071C10.9024 11.3166 10.9024 10.6834 11.2929 10.2929L14.5858 7Z"></path>
@@ -91,7 +91,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 									<div class="flex flex-col ml-4 leading-relaxed md:ml-6">
 										<h2 class="text-lg font-medium text-gray-800">AlpineJS</h2>
 										<div class="pt-1 mt-auto">
-											<a class="inline-flex items-center text-teal-600 hover:text-teal-800" href="https://tailwindcss.com/resources">
+											<a class="inline-flex items-center text-teal-600 hover:text-teal-800" href="https://alpinejs.dev/">
 												<span class="text-sm font-semibold md:text-base">Baca Dokumentasi</span>
 												<svg class="w-4 h-4 ml-2 fill-current" viewBox="0 0 18 12" xmlns="http://www.w3.org/2000/svg">
 													<path fill-rule="evenodd" clip-rule="evenodd" d="M14.5858 7H1C0.447715 7 0 6.55228 0 6C0 5.44772 0.447715 5 1 5H14.5858L11.2929 1.70711C10.9024 1.31658 10.9024 0.683418 11.2929 0.292893C11.6834 -0.0976311 12.3166 -0.0976311 12.7071 0.292893L17.7071 5.29289C18.0976 5.68342 18.0976 6.31658 17.7071 6.70711L12.7071 11.7071C12.3166 12.0976 11.6834 12.0976 11.2929 11.7071C10.9024 11.3166 10.9024 10.6834 11.2929 10.2929L14.5858 7Z"></path>
@@ -107,7 +107,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 										<svg viewBox="0 0 80.008003 74.008003" class="w-10 h-10 sm:h-12" version="1.1" id="svg20" sodipodi:docname="laramix.svg" width="80.008003" height="74.008003" inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
 											<defs id="defs24" />
 											<sodipodi:namedview id="namedview22" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" showgrid="false" inkscape:zoom="1.9831081" inkscape:cx="31.011925" inkscape:cy="62.02385" inkscape:window-width="1280" inkscape:window-height="653" inkscape:window-x="0" inkscape:window-y="33" inkscape:window-maximized="1" inkscape:current-layer="svg20" />
-											<title id="title2">Laravel Mix</title>
+											<title id="title2">Laravel-Mix</title>
 											<g id="g930" transform="translate(-0.99999838,-1.0000808)">
 												<path fill="#6da5e5" d="M 65.977,27.077 C 65.992,26.72 66,26.36 66,26 66,12.193 54.807,1 41,1 27.193,1 16,12.193 16,26 c 0,0.362 0.008,0.722 0.023,1.08 8.385,-3.663 17.93,-2.364 24.98,2.916 7.05,-5.278 16.59,-6.578 24.974,-2.92 z" id="path6" />
 												<path fill="#294ba5" d="M 31.022,48.93 A 24.95,24.95 0 0 0 41,51 c 3.55,0 6.927,-0.74 9.986,-2.074 a 24.906,24.906 0 0 0 -3.33,-11.422 24.977,24.977 0 0 0 -6.652,-7.508 24.92,24.92 0 0 0 -6.65,7.508 24.892,24.892 0 0 0 -3.332,11.425 z" id="path8" />
@@ -120,7 +120,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 										</svg>
 									</div>
 									<div class="flex flex-col ml-4 leading-relaxed md:ml-6">
-										<h2 class="text-lg font-medium text-gray-800">Laravel Mix</h2>
+										<h2 class="text-lg font-medium text-gray-800">Laravel-Mix</h2>
 										<div class="pt-1 mt-auto">
 											<a class="inline-flex items-center text-teal-600 hover:text-teal-800" href="https://laravel-mix.com/">
 												<span class="text-sm font-semibold md:text-base">Baca Dokumentasi</span>
